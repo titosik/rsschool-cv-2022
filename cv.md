@@ -14,6 +14,7 @@ My passion is to create aesthetic and commercial solutions together with talente
 Experience:
   - DESIGNER, 5 years
   - MARKETER, 5 years
+  - PHOTOGRAFER, 15 years
 
 Academic Projects:
  - Build Responsive Real World Websites with HTML5 and CSS3 (Udemy)
